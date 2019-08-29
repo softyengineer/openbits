@@ -1,2 +1,2 @@
 # openbits
-Sharing some general info
+Sharing some helpful info
